@@ -9,20 +9,17 @@
   <img align="left" alt="Ajamal's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=ajamal-chefling.ajamal-chefling)
-
 <br />
 
-Hi, I'm [Ajamal Khan](https://ajamalkhan.com/), a Full Stack Developer 🚀 from India, currently, I'm a Backend Engineer 🙍🏽‍♂️ [@gochefling](https://github.com/gochefling). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Ajamal Khan](https://ajamalkhan.com/), a Full Stack Developer from India 🇮🇳 . Beside's coding, I enjoy eating food and traveling.
   
-**Talking about Personal Stuffs:**
+**Grab a coffee ☕ :**
 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@khan_ajamal](https://twitter.com/khan_ajamal);
 
 **Languages and Tools:**  
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -36,7 +33,4 @@ Hi, I'm [Ajamal Khan](https://ajamalkhan.com/), a Full Stack Developer 🚀 from
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ajamal-chefling&show_icons=true&theme=dark&count_private=true" alt="ajamal-chefling" />
-
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=khan-ajamal&show_icons=true&theme=onedark&count_private=true" alt="ajamal" />
