@@ -18,12 +18,12 @@ Hi, I'm [Ajamal Khan](https://ajamalkhan.com/), a Full Stack Developer from Indi
 
 **Languages and Tools:**  
 
-<code><img height="35" src="python.svg"></code>
-<code><img height="35" src="go.svg"></code>
-<code><img height="35" src="nodejs.svg"></code>
-<code><img height="35" src="mysql.svg"></code>
-<code><img height="35" src="mongodb.svg"></code>
-<code><img height="35" src="react.svg"></code>
+<span><img height="35" src="python.svg"></span>
+<span><img height="35" src="go.svg"></span>
+<span><img height="35" src="nodejs.svg"></span>
+<span><img height="35" src="mysql.svg"></span>
+<span><img height="35" src="mongodb.svg"></span>
+<span><img height="35" src="react.svg"></span>
 
 
 
