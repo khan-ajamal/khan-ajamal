@@ -3,10 +3,7 @@
   <img align="left" alt="Ajamal Khan | Twitter" width="22px" src="twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ajamalkhan/">
-  <img align="left" alt="Ajamal's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.github.com/khan-ajamal/">
-  <img align="left" alt="Ajamal's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Ajamal's LinkdeIN" width="22px" src="linkedin.svg" />
 </a>
 
 <br />
