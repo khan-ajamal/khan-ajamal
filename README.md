@@ -7,6 +7,7 @@
 </a>
 
 <br />
+<br />
 
 Hi, I'm [Ajamal Khan](https://ajamalkhan.com/), a Full Stack Developer from India 🇮🇳 . Beside's coding, I enjoy eating food and traveling.
   
